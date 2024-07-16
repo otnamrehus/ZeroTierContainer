@@ -2,7 +2,6 @@
 Zerotier auto install script on docker image powered by ztnet app
 
 # Usage
-# Usage
 ```
 sudo su
 ```
@@ -29,4 +28,4 @@ docker compose up -d
 ```
 
 # Full Tutorial
-- https://youtu.be/p_UNuq0rfg0
+- Cooming Soon
