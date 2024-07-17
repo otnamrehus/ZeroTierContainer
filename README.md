@@ -28,4 +28,4 @@ docker compose up -d
 ```
 
 # Full Tutorial
-- Cooming Soon
+https://youtu.be/-IUMwPYHexc
